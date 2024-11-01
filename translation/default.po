@@ -1,0 +1,49 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Widget Upload\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: corimanon <admin@cori.fr.nf>\n"
+"Language-Team: Jessai, Corimanon, Youte, Peggy <http://jessai.fr.nf>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: widget_upload:34
+msgid "Les extensions autorisées sont"
+msgstr ""
+
+#: widget_upload:51
+msgid "envoyer"
+msgstr ""
+
+#: widget_upload:75
+msgid "le fichier a été envoyé"
+msgstr ""
+
+#: widget_upload:80
+msgid "opération interdite"
+msgstr ""
+
+#: widget_upload:105
+msgid "Titre"
+msgstr ""
+
+#: widget_upload:108
+msgid "Qui peut uploader"
+msgstr ""
+
+#: widget_upload:110
+msgid "Non inscrit"
+msgstr ""
+
+#: widget_upload:132
+msgid "chemin"
+msgstr ""
+
+#: widget_upload:135
+msgid "extensions autorisées (séparer par une virgule)"
+msgstr ""
